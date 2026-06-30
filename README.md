@@ -25,12 +25,6 @@ ChatColor allows players to customize their chat messages using colors and forma
 
 ---
 
-## 📸 Preview
-
-*(Add screenshots here later.)*
-
----
-
 ## 📥 Installation
 
 1. Download the latest release.
